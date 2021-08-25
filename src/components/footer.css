@@ -1,0 +1,17 @@
+.footer {
+    background-color: black;
+    height: auto;
+    width: auto;
+    color: white;
+   
+    text-align: center;
+}
+
+.footer-infor {
+    text-align: left;
+}
+
+.footer-title {
+     display: flex;
+    justify-content: center;
+}

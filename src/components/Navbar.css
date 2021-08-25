@@ -75,6 +75,12 @@ span {
 .navbar-title {
   color: white;
   text-align: center;
-  
-  
+}
+
+.menu-bars__login{
+  color: white;
+  background-color: rgb(90, 92, 233);
+  height: 2rem;
+  width: 3rem;
+  border-radius: 0.5rem;
 }
